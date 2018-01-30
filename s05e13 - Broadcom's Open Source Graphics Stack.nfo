@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Broadcom's Open Source Graphics Stack</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>13</episode>
+    <plot>
+    Two years ago at LCA, Eric presented a new Mesa 3D driver ("vc4") for the Raspberry Pi, full of hope for replacing the closed source graphics software on the platform. Now, the closed source 3D has been successfully replaced, and the closed source modesetting is on its way out as well. The first part of the talk will cover the state of the Raspberry Pi graphics situation and what there is left to do. 
+
+    However, Eric has a new project now: the "vc5" graphics driver for Broadcom's next generation of graphics chips in their set top boxes. The new driver has learned some lessons from the last few years of development, and builds on the strong cross-driver compiler foundation in Mesa. He will present initial results of building an open source Mesa OpenGL ES 3.x and Vulkan driver for these new chips.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26aired>
+</episodedetails>
