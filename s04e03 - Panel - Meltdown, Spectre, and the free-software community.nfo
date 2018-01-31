@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Panel - Meltdown, Spectre, and the free-software community</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>3</episode>
+    <plot>
+    The Meltdown and Spectre vulnerabilities raise a lot of questions about how our hardware works — and how we respond when things go wrong.
+
+    This panel will discuss these vulnerabilities, how they affected us, and what we would like to see done differently the next time around.
+
+    The panel consists of Kees Cook, Andrew 'bunnie' Huang, Jessie Frazelle, Katie McLaughlin and Benno Rice; it will be moderated by Jonathan Corbet.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Jonathan Corbet</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+    <actor>
+      <name>Andrew 'bunnie' Huang</name>
+      <role>Presenter</role>
+      <order>1</order>
+      <thumb>https://pbs.twimg.com/profile_images/1663475495/bdot_only_400x400.png</thumb>
+    </actor>
+    <actor>
+      <name>Benno Rice</name>
+      <role>Presenter</role>
+      <order>2</order>
+      <thumb>https://pbs.twimg.com/profile_images/767927080940023808/RRaS33Uy_400x400.jpg</thumb>
+    </actor>
+    <actor>
+      <name>Jess Frazelle</name>
+      <role>Presenter</role>
+      <order>3</order>
+      <thumb>https://pbs.twimg.com/profile_images/952280605638692864/fKQu6hmU_400x400.jpg</thumb>
+    </actor>
+    <actor>
+      <name>Katie McLaughlin</name>
+      <role>Presenter</role>
+      <order>4</order>
+      <thumb>https://pbs.twimg.com/profile_images/898666807266955264/2zlagMwN_400x400.jpg</thumb>
+    </actor>
+    <actor>
+      <name>Kees Cook</name>
+      <role>Presenter</role>
+      <order>5</order>
+      <thumb>https://pbs.twimg.com/profile_images/711941123/laughing_kees-drop-92x92_400x400.png</thumb>
+    </actor>
+</episodedetails>
