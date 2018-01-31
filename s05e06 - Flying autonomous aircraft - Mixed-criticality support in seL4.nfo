@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Flying autonomous aircraft - Mixed-criticality support in seL4</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>6</episode>
+    <plot>
+    We have cracked the problem of safely combining real-time tasks of different criticality on a single system image, removing the main show-stopper for complex mixed-criticality systems as they are emerging in cyberphysical systems such as autonomous vehicles.
+    Mixed-criticality systems (MCS) consolidate multiple functionalities of differing criticality (i.e. severity of failure). MCS are already a reality in avionics, although to date with severe restrictions. A core requirement of MCS is that the correct operation, including timeliness, of critical components must not depend on any less critical components. This requires enforcement of strong spatial and temporal isolation by the OS. Given that MCS are often life-critical, this isolation must be truly bullet-proof, and must be able to stop interference by less critical components that are potentially compromised by an attacker.
+
+    The industry-standard approach, e.g. mandated by avionics standard ARIC 653, uses strict time-and-space partitioning (TSP), where each component is sandboxed in a fixed memory partition and executes according to a statically configured schedule. This approach is too limiting for emerging MCS, as it inherently leads to poor resource utilisation and inhibits sharing across criticalities. Such sharing is important; e.g. in an autonomous aircraft, the less critical ground-station communication component must be able to update waypoints used by the highly-critical flight-control component.
+
+    The recently released MCS branch of the formally-verified seL4 microkernel is the first OS that truly matches the requirements of MCS. seL4 already provides provable spatial isolation, the MCS branch adds a scheduling model that provides the right temporal isolation. In particular, it provides time budget enforcement, that can prevent high-priority threads from monopolising the processor.
+
+    In this talk I will first give a refresher on seL4 and its formal verification story. I will then discuss the requirements of MCS in detail, based on example use cases, and explain why they cannot be matched by existing systems. I will then present the seL4 MCS support and show how it meets the requirements. I will also present autonomous aerial vehicle (AAV) case studies.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Gernot Heiser</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/659319211/09-ok-0_400x400.png</thumb>
+    </actor>
+</episodedetails>
