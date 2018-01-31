@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Let me secure that for you</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>5</episode>
+    <plot>
+    Writing secure applications is hard, and often vulnerabilities are found after your application has already been released to production.
+
+    But what happens if you’re not able to fix the vulnerabilities quickly? If you don’t have the source code? Or if the vulnerable application is “Enterprise Software”, and you aren’t ever going to be able to fix it? Wouldn’t it be great if the someone else could secure your website for you?
+
+    In this talk we describe the approach we use to shield customer’s websites when all other avenues have failed, or when urgency requires a fix as soon as possible. This process of virtual patching works well in the real world, and allows people to have comfort that all their known vulnerabilities are fixed and their applications are as secure as can be.
+
+    This talk demonstrates the process of virtual patching using a suite of open source tooling that you can go back to your company and use straight away - tools like ModSecurity and node.js. Our approach is different to the typical approach of WAF vendors, and avoids false-positives by only patching exact, known vulnerabilities discovered in a penetration test, and so we avoid the risk of affecting legitimate users.
+
+    We will show how ModSecurity works, including patching some OWASP Top 10 vulnerabilities using ModSecurity rules. We will then discuss how to fix more complex business logic flaws by writing javascript code running in node.js. This allows you to rewrite traffic to and from your website, track the state of users, sessions and requests, and fix complex issues that cannot be done using a WAF on it’s own.
+
+    Prior knowledge: This talk assumes understanding of the HTTP protocol, and common OWASP Top 10 vulnerabilities. Some experience reading Javascript would be useful, however the examples presented should be explained in a way that makes sense to non-coders.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Kirk Jackson</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/465771877940482049/tE7DdCN8_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
