@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The RomCom, the App and the Wardrobe</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>3</episode>
+    <plot>
+    22 years ago, the coming-of-age romantic comedy film Clueless introduced teenage girls (amongst others) to the possibility of using computers and artificial intelligence for fashion. The main character, status obsessed Cher, uses her classic Mac (with added touchscreen) to swipe through her virtual wardrobe and create a real outfit. This movie, a modern remake of a Jane Austen classic, looked into the future with it's wardrobe app - and has become the inspiration for many actual clothes management software projects. For example, in 2017, Amazon released Echo Look - a robot that hides in your wardrobe and judges your clothing.
+
+    This talk will discuss the creation of a modern, open source app using open source tools, through the lens of it's Clueless inspiration. Utilising Facebook open source tools React Native and Redux, Jules' Wardrobe is a recreation of Cher's Wardrobe. While Cher and Jane Austen could only have dreamed of holding their wardrobes in their hands, it is now a possibility.
+
+    Audience takeaways will include an overview of creating mobile phone applications with open source tools, a better understanding of the potential for using technology with fashion, and an overall sense of nostalgia for 90s movies.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Hannah Thompson</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/875973246436352000/-YARAu4Y_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
