@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Signal Analysis with Open Source Logic Analysers</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>7</episode>
+    <plot>
+    Hardware hacking often involves communicating with devices that do not have an existing library, or where the library does not implement features of the device that you require. The typical solution to this is that you grab the reference manual for the device, and develop software to achieve what you want. The question is, how do you debug your library when things go wrong? A key component of the debug process is looking at the signals going to the device and confirming that they are what you expect.
+
+    This workshop provides the user with some basic hardware, and walks them through using the supplied logic analyser to debug a deliberately flawed library.
+
+    Prerequisites:
+    - A basic understanding of C/C++. You won't need to write new code, but you should be able to understand and make changes to existing code.
+    - How to use a breadboard for electronic prototyping. If you haven't used a breadboard before, you can read up on how to use them on Adafruit, paying attention to how they are internally wired: https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
+    - An understanding of the 1Wire protocol. If you are not familiar with in, this tutorial provides a good description (flash required): https://www.maximintegrated.com/en/products/1-wire/flash/overview/
+    - A laptop capable of running STLink and Pulseview. Setup instructions for both Windows and Linux are provided. Contributions for OSX are welcome. A minimum of 3 USB ports are required to complete this workshop easily, or 2 with a lot of port swapping. If your laptop has less than 3 available ports, a USB hub is strongly recommended.
+
+    A $35 hardware kit is required to complete this workshop, which you can take home afterwards. It includes an ARM developer board, SWD programmer, 1wire device and logic analyser.
+
+    A total of 50 kits are available. To reserve a seat in the workshop and a hardware kit, please add your name here: https://goo.gl/WGH2rz
+
+    Attendees must have cloned the tutorial git repository and completed the included prerequisites before the start of the workshop: https://github.com/InfernoEmbedded/logicanalyser_workshop
+
+    Objectives:
+    - Program an ARM microcontroller using an SWD programmer
+    - Read output from the microcontroller's serial port
+    - Learn the basics of the 1Wire protocol
+    - Use Sigrok to analyse the signal between the microcontroller and the device
+    - Use Sigrok for higher level protocol analysis
+    - Use Sigrok to debug device communications
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Alastair D'Silva</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/514300735/n1067331972_82912_6146_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
