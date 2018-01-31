@@ -11,4 +11,10 @@
     <genre>Education</genre>
     <year>2018</year>
     <aired>2018-01-26</aired>
+    <actor>
+      <name>Bruce Crawley</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/3566635585/9fe781efdbf4dddac9de00c086d37f9e_400x400.jpeg</thumb>
+    </actor>
 </episodedetails>
