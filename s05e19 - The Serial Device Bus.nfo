@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The Serial Device Bus</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>19</episode>
+    <plot>
+    In embedded systems, UARTs are a commonly used peripheral interface (e.g. for Bluetooth, NFC, and GPS) even if the kernel infrastructure for dealing with such devices has been both limited in what it can provide (e.g. in terms of power management) and cumbersome to use (e.g. requiring user-space daemons). This presentation will give an introduction to the recently merged Serial Device Bus, which aims to overcome some of these limitations by making UART-attached devices fit better into the Linux device model.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Johan Hovold</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
