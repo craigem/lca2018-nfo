@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Making distributed storage easy - usability in Ceph Luminous and beyond</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>15</episode>
+    <plot>
+    Distributed storage is complicated, and historically Ceph hasn't spent a lot of time trying to hide that complexity, instead focusing on correctness, features, and flexibility. There has been a recent shift in focus to simplifying and streamlining the user/operator experience so that the information that is actually important is available without the noise of irrelevant details. Recent feature work has also focused on simplifying configurations that were previously possible but required tedious configuration steps to manage.
+
+    This talk will cover the key new efforts in Ceph Luminous that aim to simplify and automate cluster management, as well as the plans for upcoming releases to address longstanding Cephisms that make it "hard" (e.g., choosing PG counts).
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Sage Weil</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/56480287/me_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
