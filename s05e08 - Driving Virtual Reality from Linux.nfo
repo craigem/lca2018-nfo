@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Driving Virtual Reality from Linux</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>8</episode>
+    <plot>
+    Head-Mounted Displays (HMD) are the most common device for presenting virtual reality to the user. They project independent images to each eye to construct a stereo view and track the position and orientation of the head using both inertial measurement and external beacons.
+
+    All of the elements in the system introduce varying amounts of delay between the motion of the head and the perception of the image by the user. Computing the projected images thus requires predicting where the user will be facing when the image is finally emitted from the display.
+
+    As the user is strapped into the HMD and their visual field is limited to that provided by the HMD, timing errors in the VR presentation can cause disorientation leading to nausea or other effects. This leads to strong latency bounds through the entire application pipeline.
+
+    A traditional window system, running multiple applications, cannot easily provide the guarantees needed by a VR system. Competing applications may consume window system resources and cause jitter in the VR presentation. Separating the VR application from the window system can allow it to operate without interference from other applications and improve performance.
+
+    Started at LCA last year in Hobart, the new DRM Leasing mechanism allows applications to take over a set of display resources from the window system and drive them directly. These changes involved modifications to the Linux kernel, X window system and Mesa Vulkan implementation. This new system brings proposed Vulkan extensions for direct display operation to the DRM environment.
+
+    The presentation will discuss the design and implementation of the system, along with highlights of the development process and a live demonstration of the resulting system.
+
+    All of this free software was developed under contract with Valve, who are using it to provide support for the HTC VIVE HMD.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Keith Packard</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/841764085108629504/FE0nyxYO_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
