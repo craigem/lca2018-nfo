@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Elfen Scheduling - Fine-Grain Principled Borrowing from Latency-Critical Workloads using SMT</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>12</episode>
+    <plot>
+    Web services from search to games to stock trading impose strict Service Level Objectives (SLOs) on tail latency. Meeting these objectives is challenging because the computational demand of each request is highly variable and load is bursty. Consequently, many servers run at low utilization (10 to 45%); turn off simultaneous multithread- ing (SMT); and execute only a single service — wasting hardware, energy, and money. Although co-running batch jobs with latency critical requests to utilize multiple SMT hardware contexts (lanes) is appealing, unmitigated sharing of core resources induces non-linear effects on tail latency and SLO violations.
+
+    We introduce principled borrowing to control SMT hardware execution in which batch threads borrow core resources. A batch thread executes in a reserved batch SMT lane when no latency-critical thread is executing in the partner request lane. We instrument batch threads to quickly detect execution in the request lane, step out of the way, and promptly return the borrowed resources. We introduce the nanonap system call to stop the batch thread’s execution without yielding its lane to the OS scheduler, ensuring that requests have exclusive use of the core’s resources. We evaluate our approach for colocating batch workloads with latency-critical requests using the Apache Lucene search engine. A conservative policy that executes batch threads only when request lane is idle improves utilization between 90% and 25% on one core depending on load, without compromising request SLOs. Our approach is straightforward, robust, and unobtrusive, opening the way to substantially improved resource utilization in datacenters running latency-critical workloads.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Xi Yang</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://avatars0.githubusercontent.com/u/826639?s=400&v=4</thumb>
+    </actor>
+</episodedetails>
