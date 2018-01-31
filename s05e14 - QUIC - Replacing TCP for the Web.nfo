@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>QUIC - Replacing TCP for the Web</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>14</episode>
+    <plot>
+    QUIC is an encrypted, multiplexed, and low-latency transport protocol designed from the ground up to improve transport performance for HTTPS traffic and to enable rapid deployment and continued evolution of transport mechanisms. QUIC has been globally deployed at Google on thousands of servers and is used to serve traffic to a range of clients including a widely-used web browser (Chrome) and a popular mobile video streaming app (YouTube). We estimate that 7% of Internet traffic is now QUIC. QUIC is now maturing from a Google experiment to a more complete Internet standard at the IETF. This talk will provide an overview of the QUIC protocol and the current state of its development and deployment. I will describe motivations for developing a new transport, QUIC's design and the principles that guide it, and performance improvements seen by various Google services due to QUIC. This talk will also share lessons about transport design and the Internet ecosystem that we have learned from QUIC's deployment.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Jana Iyengar</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
