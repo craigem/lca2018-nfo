@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Mass Production - Open-source Testing in Manufacturing</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>20</episode>
+    <plot>
+    Congratulations on funding your open source hardware project! After the crowd campaign ends, once the design is done, as soon as units start rolling off the factory line, you need to make sure each item is correctly built. To do this, you turn to a factory test jig.
+
+    Factory test jigs tend to be highly confidential and proprietary, or else they're considered merely an afterthought, an inconvenient requirement on the road to production. As such, there isn't a lot of information available on them. Test jigs tend to be bespoke, with little software reuse between products, and almost no software reuse between companies.
+
+    This talk will discuss some common pitfalls experienced during manufacturing, common mistakes that are made, and explain just how hostile an environment factories can be to developing software. We'll share stories from the assembly line, and discuss our open-source factory-friendly testing infrastructure. Come hear talks about the software, plans for the future, and some horror stories that we've encountered in the factory when developing it.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Sean Cross</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/831699160357302273/ve4hxHwU_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
