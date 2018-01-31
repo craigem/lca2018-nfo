@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>nftables from a user perspective</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>9</episode>
+    <plot>
+    nftables replaces the popular {ip,ip6,arp,eb}tables Firewall and Router utilities.
+
+    For some years its status had been "Under Development", but this changed in early 2017.
+
+    This talk explores the ease of transition from iptables, and the advantages and drawbacks of nftables.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Duncan Roe</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://avatars1.githubusercontent.com/u/2820715?s=400&v=4</thumb>
+    </actor>
+</episodedetails>
