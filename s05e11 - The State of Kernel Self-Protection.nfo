@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The State of Kernel Self-Protection</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>11</episode>
+    <plot>
+    The Kernel Self-Protection Project focuses on addressing gaps in Linux's defensive technologies. With Linux reaching into every corner of modern life, and userspace frequently being very locked-down, the kernel has become an ever-increasing target for attackers and much more needs to be done to harden the kernel so it can protect itself. A quick overview will be shown of what we're trying to protect Linux against, as well as the state of the art in available technologies. Also presented will be a summary of the last year's participation by many people over a wide range of technologies, with a review of KSPP attempts, accomplishments, active efforts, and an examination of future projects and goals.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Kees Cook</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/711941123/laughing_kees-drop-92x92_400x400.png</thumb>
+    </actor>
+</episodedetails>
