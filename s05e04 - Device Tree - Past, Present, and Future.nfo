@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Device Tree - Past, Present, and Future</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>6</episode>
+    <plot>
+    Since the switch of the ARM Linux support from the stable PowerPC Device Tree support, it became an important piece of software used to describe all sorts of devices based on very different hardware architectures.
+
+    Currently, BSD* Unixes and even the Zephyr RTOS has switched to Device Tree to describe the hardware. U-boot has also a file format using the Device Tree blob format.
+
+    Neil will present you the history of Device Tree from its origins, how it has been used for ARM from the PowerPC codebase, all the very different current usage and an overview of its future application and evolutions.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Neil Armstrong</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+</episodedetails>
