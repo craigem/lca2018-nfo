@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 06:48:29 - by Craige McWhirter -->
+<tvshow>
+<title>Linux.conf.au 2018</title>
+<plot>
+Being held at the University of Technology, Sydney, linux.conf.au is the largest linux and open source conference in the Asia-Pacific region. Run annually since 1999, it brings together the Australian, New Zealand and international community for standout presentations, demonstrations and relationship building.
+
+linux.conf.au is a conference where people gather to learn about the entire world of Free and Open Source Software, directly from the people who shape the projects and topics that they’re presenting on.
+
+We aim to provide a deeply technical conference made up of industry leaders and experts on a wide range of subjects from the inner workings of the Linux kernel itself, to open source projects (hardware and software), to open data, to open government to community engagement.
+</plot>
+<thumb aspect="" type="" season="">/media/sda1-ata-ST4000LM016-1N21/Videos/LCA2018/logo.jpg</thumb> 
+<genre>Education</genre>
+<year>2018</year>
+<studio>https://lca2018.linux.org.au/</studio>
+
