@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Modernising firmware testing on POWER with Python and pre-release everything</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>10</episode>
+    <plot>
+    Some people have the odd expectation that they will be able to (reliably) turn their computers on and off. On top of that, other people seem to have the entirely unreasonable expectation to have their computers reliably boot an Operating System, perform consistently, and not catch fire. In order to meet these outrageous expectations, we need to test firmware before we release it to an unsuspecting public.
+
+    After all, isn't the gold standard of testing "if it boots, ship it" ? In the era of Blockchain, the gold standard no longer applies.
+
+    As a firmware maintainer, I want the answer to a simple question: "Will I regret merging this code?". A simple and quick automated test suite is in order! Unfortunately, such things are not always around when you need them.
+
+    In order to successfully deliver POWER9 systems (new processor, new operating systems, new machines, new BMC software), we would need a high quality, reliable, fast, easy to use, automated firmware test suite that could not only spot regressions, but find new bugs.
+
+    This is a tale of code and organizational transformation and discovery during an incredibly tight and largely immobile release schedule.
+
+    We'll cover:
+    - Components of a modern POWER server and how one might test them (on purpose or by accident)
+    - Practical use of Python in a mix of modern and legacy environments without going insane
+    - (ab)using existing testing frameworks for (almost) fun and (hopefully) profit
+    - How to (not) live with old enterprise distros
+    - Transforming development, test, and management organizations, into test focused ones.
+    - How on earth do you design a firmware compliance test before you have a test suite anyway?
+
+    This talk is brought to you by:
+    - A Perl script calling a perl script that parses XML with regex that ran a shell script to construct a python script to shell out to expect.
+    - Unexpected bugs in the TTY layer
+     - Soft Lockups
+     - SOL Disconnected by BMC.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Stewart Smith</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/3657375446/9a51dbb4720094fc4e3c12d7115ac5fe_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
