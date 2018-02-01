@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Please Contain Me - Practical LXC on the Desktop</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>18</episode>
+    <plot>
+    So you're running a Linux desktop, and it's getting cluttered. There's that weird library you installed ages ago that messes up your package dependencies every upgrade, proprietary software that was last updated for the Ubuntu version you ran three years ago, and then of course you also need a bunch of Python, Go, and Ruby dev environments that all come with their own package managers. Wouldn't it be nice to have a cleaner, saner, more compartmentalised setup?
+
+    Enter LXC.
+
+    LXC is the underrated wallflower of Linux container runtimes. It's been around for longer than just about everything else, it's stable, it has a decent userland, and it comes with neat features that make it saner and more secure than its contenders — but very few people use it to its full potential.
+
+    In this tutorial, I'll show you how to run an arbitrary number of LXC containers on your desktop, all configured with Ansible so that whenever a container starts to look even remotely off, you can just throw it away and start over in minutes. You'll learn how to run unprivileged containers under your own user context, use a shared /home directory across all your containers (and make it work), run containerized X applications that talk to your host X and sound server, and selectively make host resources (such as a webcam, or USB printer) available in your container. I've been using this approach on my own Ubuntu desktop for a couple of years, on a daily basis.
+
+    To make the most of this tutorial, please come with a desktop that already has LXC and a current version of Ansible installed.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Florian Haas</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/635732083726413825/cVIQf3sd_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
