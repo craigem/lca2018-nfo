@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>GLAM Project Workshop</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>2</season>
+    <episode>32</episode>
+    <plot>
+    GLAM Project Workshop
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-23</aired>
+    <actor>
+      <name>Fiona Tweedie</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/957159630614024192/tSI4Ibcb_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
