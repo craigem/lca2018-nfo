@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Keynote - Containers aka crazy user space fun</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>5</season>
+    <episode>2</episode>
+    <plot>
+    Like the movie Plan 9 from outer space, this talk will cover containers from user space. What are they? Where did they come from? How much koolaid is involved in adopting them into your life... Come for the jokes, stay for the interesting technical details.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-26</aired>
+    <actor>
+      <name>Jess Frazelle</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/952280605638692864/fKQu6hmU_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
