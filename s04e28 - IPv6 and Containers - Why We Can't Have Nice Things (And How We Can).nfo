@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>IPv6 and Containers - Why We Can't Have Nice Things (And How We Can)</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>32</episode>
+    <plot>
+    Containers are everywhere. And they all need IP addresses. IPv6 has lots and lots of IP addresses. It's a match made in heaven! Despite this perfect match of problem and solution, however, there are a number of challenges that you'll face if you try to use IPv6 to address your containers.
+
+    With the benefit of having struggled (and mostly succeeded) to make containers and IPv6 play well together for the last two years, Matt Palmer has a lot of war stories and useful tips to make your journey to container networking nirvana a bit smoother. He'll describe why things are the way they are, why they don't have to be that way, and how you, too, can experience the joys of never again having to configure a Docker port forward.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Matt Palmer</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/607059906244395008/MfrT0fqN_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
