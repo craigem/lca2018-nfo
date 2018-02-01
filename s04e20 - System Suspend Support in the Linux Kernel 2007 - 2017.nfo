@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>System Suspend Support in the Linux Kernel 2007 - 2017</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>20</episode>
+    <plot>
+    System suspend is relatively straightforward from the user perspective. When requested, it should put the whole system into a state with all activity stopped and reduced power draw. Next, the system should wait in that state for an event to wake it up and then go back to its previous state and get on with whatever it was doing before, ideally without any side-effects visible to the user. The implementation of that in an Operating System, however, turns out to be seriously complicated.
+
+    First of all, stopping all activity in a multiprocessor system, like a modern laptop, is a rather tricky business and it cannot take too much time, or it will not be appreciated by users. On top of that, in general, all devices in the system need to be put into low-power states, so that the total power draw of the suspended system can be as low as expected and that should happen quickly too. Still, some devices need to remain sufficiently active to be able to wake up the system when needed and that has to be taken into account along with all of the possible dependencies between devices. Moreover, the time it takes for the system to get back to the working state also cannot be too long and, finally, all of the above must be absolutely reliable or system suspend will not be used. Combined, all of these items may look a bit intimidating.
+
+    Of course, that did not prevent Linux kernel developers from implementing system suspend support, but it took quite some time to reach the current state of the art. Various parts of the suspend infrastructure have been under development for several years, but it started to be recognized as a separate feature in 2007.
+
+    Overall, a lot of progress has been made and nowadays system suspend in Linux is regarded as one of the features that generally should work. There are gaps in it and occasional regressions happen, but also there is a huge number of Linux-based systems in the field that suspend reliably on a very regular basis. However, it is instructive and somewhat entertaining to look back at where we started and how we have got where we are today.
+
+    That leads to some interesting observations. One of them, which seems to be particularly important to me, is that improvements are made by iterating three basic steps again and again. First, we get some better understanding of what really happens, either by diagnosing reported issue or by adding support for new technologies. That better understanding results in code improvements which typically unlock some use cases that were not viable previously. Next, the new use cases are exercised and become the source of feedback which then causes our understanding of things to get better still and a new cycle begins. Every iteration takes us to the next level and progress is made this way.
+
+    That pattern is clearly visible in the history of the development of system suspend support in Linux, but it is not the only thought-provoking aspect of it as I will show in my presentation.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Rafael Wysocki</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
