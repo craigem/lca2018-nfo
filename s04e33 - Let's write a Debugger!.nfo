@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Let's write a Debugger!</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>33</episode>
+    <plot>
+    Ever wondered how does the ever-famous gdb tool work? How do breakpoints work? How does single stepping work? All tools that you may use in day-to-day life, but do you actually know how they work? During this talk, we will deepdive into the numerous tools Linux exposes that you can use to check and modify the state of another running process. Of course, most of it wouldn't be possible with just Linux support, so we will also have a brief look at the available hardware support. Think debug registers and special interrupts. By the end of this talk, hopefully you will walk away with a refreshed knowledge of the interesting world of debuggers.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Levente Kurusa</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/462226499047665665/lhrSDnCW_400x400.png</thumb>
+    </actor>
+</episodedetails>
