@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Linux: the first second</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>24</episode>
+    <plot>
+    In 2013, the U.S. National Highway Transportation Safety Administration proposed a new rule requiring a rear-view video camera system for new cars. The new regulation stipulated that passenger vehicle cockpit displays should show detect hazards behind a vehicle and be capable of producing video composited with warnings within 2 seconds of a driver placing the shifter into reverse. Achieving this goal was quite a challenge for a Linux system starting from a powered-off state! Carmakers who planned to ship Linux responded with an all-out effort to understand the boot process and reduce the time-to-video. Those engineers who participated learned a great deal about how Linux starts.
+
+    What does actually happen when the power button is pushed on a Linux device? What are initrd's, BIOSes and bootloaders, and why do we need them? There has been much controversy about PID 1 and SecureBoot, but much less discussion about the work the kernel performs before reaching userspace: probing devices, allocating memory and starting per-core housekeeping threads. The kernel actually does have a main.c, but what's in it? How does initialization of the kernel compare to that of normal Linux processes, and how do normal processes actually start anyway? Kernel actions are sequenced via a series of 'initcall' stages. Why do devices show multiple different boot animations and screen resolutions? How are 'suspend' and 'hibernate' different?
+
+    The talk will lightly touch on topics like initialization of hardware, how resume after hibernation differs from a fresh boot, what 'warm boot' and 'cold boot' are, and x86_64 versus ARM initialization. As time permits, the talk will include simple demos of how to examine your kernel with GDB, how to survive the rescue shell, how to build your own initrd and why you might want to do so, and a few ways to pass information between the kernel and the bootloader.
+
+    The technical level will be appropriate for system administrators and developers who have some familiarity with installing Linux systems or recovering them when they are stuck. The talk will include brief anecdotes from experiences during vehicular Linux development.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Alison Chaiken</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/841066322821754880/0itrOrax_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
