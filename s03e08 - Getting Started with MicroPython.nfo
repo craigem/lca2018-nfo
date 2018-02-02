@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Getting Started with MicroPython</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>8</episode>
+    <plot>
+    MicroPython is a Python3 for resource constrained systems, allowing you to develop IoT software in a pleasant high-level language and run it on a cheap microcontroller.
+
+    We'll look at:
+    * installing MicroPython on ESP8266 and ESP32
+    * inputs and outputs
+    * networking
+    * multiprocessing
+    * building MicroPython from source
+    * contributing to MicroPython
+
+    You'll need something to run MicroPython on. If you made your own LoliBot at the Open Hardware Miniconf, bring that, otherwise we have a limited number of ESP8266 modules available to purchase as part of your LCA ticket (under "extras"). Bring your own MicroUSB cable!
+    More information at: https://github.com/nickzoic/mpy-tut/
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Nick Moore</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/2965461881/04fc43e75e47ca8344c2442c21188c43_400x400.png</thumb>
+    </actor>
+</episodedetails>
