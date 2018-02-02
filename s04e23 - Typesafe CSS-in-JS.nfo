@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Typesafe CSS-in-JS</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>23</episode>
+    <plot>
+    Type systems are becoming increasingly popular in the javascript community with leading projects increasingly adopting flow and typescript.
+
+    Another awesome development in the javascript space has been the rise of css-in-js frameworks.
+
+    This talk is a deep dive into the challenges and opportunities that arise from typing css-in-js.
+
+    Luke is one of the leading contributors to the one of the leading css-in-js frameworks `glamorous`, and also is also a downstream consumer of these typings having helped lead it's adoption on Western Australias leading news websites.
+
+    The challenges and opportunities around typing javascript frameworks that this talk covers should be translatable any javascript and web frameworks
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Luke John</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/955924309066706944/cahbB4mb_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
