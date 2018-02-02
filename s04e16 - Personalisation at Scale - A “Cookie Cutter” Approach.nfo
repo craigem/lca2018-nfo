@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Personalisation at Scale: A “Cookie Cutter” Approach</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>16</episode>
+    <plot>
+    In this talk I will explore a multifaceted approach for building high performance Magento sites, while still delivering personalised content. How do you cache content for performance, yet still provide a personalised experience for visitors to your site? In this talk we’re going to allow you to have your cake (or cookie :-) and eat it too. The concepts and techniques have been successfully applied to large scale, high performance sites; but, while developed for Magento, they also apply to other eCommerce platforms and Content Management Systems.
+
+    I will discuss a technique called “cookie cutter” for personalising cached content. This technique allows the use of a Full Page Cache (such as Varnish) for performance, while still allowing personalised content such as recently viewed product, name, or number of items in your cart to be included in the page. Typical solutions to personalisation involve the use of Edge Side Includes (ESI), but there are limitations to that approach, so we’ll talk about ESI, and why “cookie cutter” can be a better solution.
+
+    What about cache misses? A multifaceted approach to performance optimisation is required. I’ll explore some tools, techniques and concepts we can use to improve performance; including an enhancement to the Magento block cache that can be implemented using Magento’s module extension mechanism..
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Jim O'Halloran</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/2211001278/starsky2_400x400.JPG</thumb>
+    </actor>
+</episodedetails>
