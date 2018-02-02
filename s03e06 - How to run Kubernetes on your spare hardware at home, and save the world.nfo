@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>How to run Kubernetes on your spare hardware at home, and save the world</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>6</episode>
+    <plot>
+    For the last few decades, the "Open Source Software" we hack on at work has been slowly evolving thanks to increased scale, distributed computing, and Cloudy McCloud. Meanwhile, the "Free Software" we hack on at home has mostly stayed in the 1990's with stdin/stdout, writing to local files, and home directories. This divergence has flow-on effects everywhere, such as shifting license choices for major building blocks, increased use of centralised free-as-in-beer services, and less support for federation and standardised network protocols.
+
+    Despite this, all the same pressures driving corporate changes _also_ apply at home, just at smaller scale. This talk will demonstrate how easy it is to build and maintain an elastic, fault-tolerant *home* Kubernetes cluster out of spare hardware. We walk through what the machine lifecycle looks like and how to solve typical home tasks like interactive shell accounts, printing or other network services, and periodic background jobs.
+
+    By the end you will be convinced of not just the practical but also the strategic reasons to modernise your home computing environment. Join us in this nascent "garage cloud" movement, and help to build the Linux distribution for the *next* 30 years!
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Angus Lees</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
