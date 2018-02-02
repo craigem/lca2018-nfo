@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Geographically distributed multi-master replication with PostgreSQL and BDR</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>23</episode>
+    <plot>
+    Keeping your data in more than one place is vital for business continuity, and databases are no exception. Backups are great, but they won't help you when your normally-connected EU, US and Australian operations all want to continue operating during a major WAN outage. This is where multi-master replication systems come into their own - but they also come with often overlooked costs and downsides. Bi-Directional Replication (BDR) for PostgreSQL can help solve some users' availability challenges in a globally distributed environment... if it's applied correctly.
+
+    Multi-master is not magic high availability secret-sauce that can be applied to every problem, no matter what some major vendors' sales teams would like you to believe.
+
+    Learn about when to use - and not to use - multi-master replication in general, and BDR in particular. When is it better to stick to a single-master system with failover? If you do select a multi-master system, what kind is best for you? Do you need something partition- and latency-tolerant, or something tightly coupled and transparent? Shared-mostly or shared-nothing? These details will have a major impact on whether a given system architecture can meet your needs, and understanding them will help you set better requirements during a design and product selection process.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Craig Ringer</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
