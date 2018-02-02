@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Mirror, mirror, on the wall: testing Conway’s Law in open source communities</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>21</episode>
+    <plot>
+    Mirror, mirror, on the wall: testing Conway’s Law in open source communities.
+
+    You’re probably familiar with Conway’s Law, that “organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations." But did you know that there’s a tradition in academia spanning as far back as the 1960’s that has studied it in action?
+
+    Our understanding began in the traditions of organisational design, product design, and organisations-as-complex-systems. Conway’s Law is a separate tradition in technology, embracing our idioms and ways of storytelling.
+
+    But all three traditions point back to the same underlying concepts.
+
+    Conway’s Law has been studied across auto, aviation, software, banking, and healthcare. Each study has revealed how humans organise to build systems, and how those systems influence how we organise ourselves.
+
+    The results are not what you’d expect.
+
+    The internet has completely changed how we communicate – the cost of communication is lower than ever. Open Source breaks new ground about how we organise ourselves when working together. How Conway’s Law applies to open source development will surprise you.
+
+    People who attend this talk will learn:
+    * A brief history of Conway’s Law in management literature and academia.
+    * How Conway’s Law applies differently to your open source community and your workplace.
+    * How to apply the evidence to help you grow and sustain your community in a fast evolving ecosystem.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Lindsay Holmwood</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/781188557436170241/Va20SjXX_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
