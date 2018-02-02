@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Developing NVM Express</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>30</episode>
+    <plot>
+    Storage moves in cycles. We crave more speed, so we integrate more components in one place. Then we desire more flexibility, so we split components apart again. Does any of this thrash help us build better systems, or does it just create full employment for the kinds of people who work on standards committees?
+
+    Join Matthew for his perspective on the development of the NVM Express and NVMe over Fabrics standards and a comparison with other storage standards. The second half of his talk will see what lessons from the past can be applied to persistent memory.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Matthew Wilcox</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
