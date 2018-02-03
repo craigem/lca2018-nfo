@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Budget CNC machining</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>14</episode>
+    <plot>
+    Turning a budget $600 chinese 3040 CNC into a monster that eats 1/2 inch 6061 alloy for lunch. Why you shouldn't be intimidated by upgrading a CNC to run open firmware and be more capable and extend the software interface to the machine.
+
+    Along the way replace the controller which wanted a parallel port with a SmoothieBoard running open source firmware on a cortex-m microcontroller, build server software to allow MQTT machine control opening the door to MQTT remote controls and MQTT over WebSockets bootstrap web interfaces. The big gulp situation of one way butchering the original spindle mount when you upgrade to a 2.2kw, 24krpm cutter. The more advanced upgrades to completely replace the z axis assembly to gain more travel in the lead up to 4 and 5 axis machining.
+
+    Some might say that managing file lists and cut jobs with MQTT is a contortion of the technology, but if it's useful and it works then why not?
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Ben Martin</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/2198140663/my-icon1_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
