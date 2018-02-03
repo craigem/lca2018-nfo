@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Burning Down the Castle</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>26</episode>
+    <plot>
+    My retrospective on 5 years of Linux kernel maintainership: Why the kernel community is a lot more broken than it looks, why maintainers benefit from that and why it's unlikely to change.
+
+    Just dissecting the gruesome workings of a broken community might be entertaining, but not all that enlightening. This talk will also look at how well-built communities, both large & small, avoid these pitfalls.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Daniel Vetter</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/465988093594443776/DE7i1cAW_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
