@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Building a Better Thermostat</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>10</episode>
+    <plot>
+    After returning from a recent trip that occurred during the middle of a heat wave. I arrived home to find my apartment quite hot, at least 45C inside. Needless to say it wasn’t the most comfortable way to come home after 15 days out of town, I decided it was time for me to do something about it to address this so I didn't come home to that unpleasant surprise again. Normally, this problem is solved by having a thermostat which controls the air conditioning. However, my apartment did not have a thermostat. So I decided to build one using open source software.
+
+    This talk will cover how I went about solving my problem using existing software and protocols like home-assistant, MQTT, and also some new software that was created for this. It'll also discuss how using open software and home automation I was able to solve my issue but also make cooling my apartment smarter.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Matthew Treinish</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://avatars2.githubusercontent.com/u/2447371?s=460&v=4</thumb>
+    </actor>
+</episodedetails>
