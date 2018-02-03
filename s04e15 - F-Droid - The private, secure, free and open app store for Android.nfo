@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>F-Droid: The private, secure, free and open app store for Android</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>15</episode>
+    <plot>
+    While smartphones have been heralded as the coming of the next generation of communication and collaboration, they are a step backwards when it comes to personal security, anonymity and privacy.
+
+    Most app stores encroach on users freedoms by closely monitoring and profiling how people use their devices. They reject apps which do not align with their terms of service. They are also unavailable in some of the worlds biggest markets, such as China, due to being blocked by the Government.
+
+    F-Droid is the open source app store for Android focusing on freedom, privacy, and security.
+
+    It doesn't track what you search for, what you install install, or what apps you use. It warns you about apps which track you or show you ads. The main F-Droid repository gives you access to over 2000 open source apps, and there are other 3rd party repositories which expand this even further. In addition, it is essentially unblock-able, making it a vital piece of infrastructure for activists and journalists who need access to apps to facilitate secure communication.
+
+    Over the last year, the F-Droid project has completely revamped its UI to make it more friendly to non-tech users, adding support for screenshots, feature graphics, and localized metadata about apps. We have also added several new tools to make it easier for anybody to setup and run their own curated app store. This talk will cover the various aspects of the project, focussing on the client, its security model, and how it is being used to ensure everyone is able to access high quality open source apps as the smart phone revolution continues.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Peter Serwylo</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/1650120271/photo_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
