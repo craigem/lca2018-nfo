@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Elm by Example - Make beautiful map displays with Elm and Leaflet</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>27</episode>
+    <plot>
+    Maps and GIS are not scary. You can build a responsive user interface that has custom map displays remarkably easily.
+
+    Most of us carry a geolocation device on us at all times. This opens up many applications for presenting information on a map.
+
+    The Elm environment (a functional programming language that transpiles to Javascript) leads to beautifully small and bug-free sites that also happen to be responsive and look great (particularly when combined with the Material Design toolkit).
+
+    Many people worry about being locked into the Elm language and unable to use other javascript libraries.
+
+    This presentation will show how my team works almost exclusively in Elm, while still having access to cutting-edge javascript toolkits such as Leaflet.js
+
+    Mapping gets everywhere, I find myself using geo-representation for applications ranging from building management to vehicle traffic enforcement.
+
+    Come on in, the functions are fine.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Christopher Biggs</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/783931036052795392/WEBMqk0N_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
