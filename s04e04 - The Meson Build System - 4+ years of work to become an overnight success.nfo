@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The Meson Build System - 4+ years of work to become an overnight success</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>04</episode>
+    <plot>
+    In the last year many core projects in the Linux ecosystem have transitioned to use the Meson build system. These include the X.org and Wayland graphical servers, the GStreamer multimedia framework, many GNOME projects and even systemd. Without fail these project report that the change has brought about many improvements such as reduced compile times and increased agility, easier to understand build definitions and, perhaps most importantly, increased developer happiness.
+
+    In this talk we shall be looking into the design and features of Meson and how they improve the day-to-day developer experience. These improvements are undeniable and noticeable but it turns out that selling them to people was a lot tougher than it first seems. We shall go through the history of Meson and talk about the all the hidden work behind the scenes that needed to be done before projects were willing to transition off their tried and true build systems to the new shiny.
+
+    The presentation concludes by looking at new features that are in the pipeline and other new things we should expect from Meson in the future.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Jussi Pakkanen</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
