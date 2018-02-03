@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>OpenMRS stories: saving lives with open source</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>5</episode>
+    <plot>
+    Write code, save lives. With this motto, OpenMRS (Open Medical Record System) was created in 2004 with the goal to provide a free and open source medical record system platform, designed specifically for developing countries and low-resources healthcare providers.
+
+    From small clinics, big hospitals, national health programs and anything in between, this project you probably haven't heard before is present in several different countries, and it has had an impact in public global healthcare.
+
+    Join us in this talk to hear how lives were impacted by OpenMRS. From helping fight the latest Ebola outbreak to tracking multi-drug-resistant tuberculosis in Peru, you have the opportunity to learn how this open source project has been truly making a difference in the world.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Cintia Del Rio</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>Cintia Del Rio</thumb>
+    </actor>
+</episodedetails>
