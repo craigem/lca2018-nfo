@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Making Technology More Inclusive Through Papercraft and Sound</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>8</episode>
+    <plot>
+    The participation of women in computer education is low; undergraduate enrollment hovers between 10-20% female globally. The picture at the primary school level is fuzzier, as students do not declare majors at that level, but evidence indicates the trend starts from a young age. Can we make computer education more gender-inclusive? Presenting technology in familiar, non-threatening contexts can lead to more balanced gender participation. For example, Chibitronics uses the context of papercraft to present electronics to beginners; the familiarity of papercraft improves the participation of women of all ages in the creation of electronics.
+
+    Based on these learnings, we have devised the “Love to Code” platform, an open source hardware-to-cloud stack which combines the familiarity of paper craft with a web-based, driver-free embedded firmware development environment based on FSK audio provisioning via a headphone jack. In this talk, we will dive into the novel open source technical contributions of this platform, which includes the audio-based provisioning protocol and the unique rigid-flex design of the circuitry enabling papercraft integration, as well as the multi-threaded client OS and cloud infrastructure required to complete the picture. This combination of new technology with familiar interfaces aims to lower the barrier to computer education, thus making coding a more accessible and inclusive activity.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Andrew 'bunnie' Huang</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/1663475495/bdot_only_400x400.png</thumb>
+    </actor>
+</episodedetails>
