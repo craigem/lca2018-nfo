@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>High performance science - open and reproducible neuroscience image processing that scales?</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>32</episode>
+    <plot>
+    Today’s neuroscientific results are based on complex image analyses that involve a large variety of open source software. Unfortunately the last years have shown that many neuroscientific findings cannot be replicated and that data sets are not yet shared widely to enable efficient reuse of data and alternative analyses.
+
+    In this talk I want to give an overview of how the neuroscience field aims for open and reproducible analyses and by this enables better research and more reliable findings. I want to show how the field progressed to use open data formats for storing raw data acquired from MRI scanners (ISMRMRD), how processed images that can reach multiple TB in file size are stored, including data provenance information (MINC), and how these data are analysed in a reproducible way using software containers (SINGULARITY) that allow scaling an analysis from a small development platform to large scale high performance computing systems and enable the efficient managing of different software versions and the reproducibility of analyses. Finally, I want to touch on sharing neuro scientific data in open repositories that allow the re-use and pooling of large datasets to derive new results that would be impossible without data sharing.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Steffen Bollmann</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/932427692393115648/_X402Dcw_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
