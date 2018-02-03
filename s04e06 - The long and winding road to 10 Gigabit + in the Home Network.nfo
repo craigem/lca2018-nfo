@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The long and winding road to 10 Gigabit + in the Home Network</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>6</episode>
+    <plot>
+    100 Base T was introduced in 1995 and it took only a few years for it to displace 10Mbit NICs and switches completely in consumer and business networks. Likewise 1000 Base-* was introduced in 1999 as a standard and since 2008 has been the De-facto choice of Wired Network Interfaces in consumer and home networks and associated devices.
+
+    More than a decade on, the humble Gigabit interface is still the fastest standardized port available to interconnect Consumer Equipment by and large. 10Gbit networks in the Datacentre have been the go-to server choice for some time - and QSFP28+ 100GBit is now starting to dominate the DC. Why haven't these technologies made it into Laptops and Desktops around the globe? What options do you actually have for faster than 1GBit connections away from expensive enterprise situations?
+
+    This talk will cover the spectrum of options, performance tests, quirks and caveats relating to these questions. Including a focus on Thunderbolt3 kernel patches, USB3.0 and why the leap from 1000mbit to 10000mbit and beyond is taking so damn long.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>iJoel Wirāmu Pauling</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/599073803889684481/Fg7Gaz0n_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
