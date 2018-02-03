@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Robotica - Robot maid for assisting with autistic kids</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>12</episode>
+    <plot>
+    Dealing with an autistic child can be a challenge. Even more so for twins. I invented Robotica to try and help with some of the challenges at keeping a fixed routine. Robotica is a maid from Duck Tales, and at first she scares the kids. Robotica improves over time. In my house, Robotica is installed on several Raspberry Pis around the house, and has a asyncio based scheduler system. At designated times, Robotica will give voice messages, play music and/or adjust the LIFX lights. An added challenge is to deal with numerous exceptions for the normal routine without having to manually adjust the schedule on a daily basis. There are lots of things that I have planned, but only one me to do them all. The purpose of this talk is to attempt to get other people interested in developing Robotica so that it can be more useful to more people.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Brian May</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/359669004/penguin_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
