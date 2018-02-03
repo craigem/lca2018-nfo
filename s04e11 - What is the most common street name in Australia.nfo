@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>What is the most common street name in Australia?</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>11</episode>
+    <plot>
+    Finding the most common street name in Australia may sound relatively simple, but it quickly leads to other questions. What is a street name? Do The Avenue, The Grand Parade and The Serpentine all share the same name? And what is a street? Is the M5 Motorway a street? What about M5 Motorway Offramp?
+
+    This talk will answer these questions using Open Street Map (OSM) data. We'll be having a look at what OSM is and how we can use it. We will discuss what different methods for defining streets and street names. And finding out what the most common street name in Australia is.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Rachel Bunder</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/628736082067091456/9QyGDfQ7_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
