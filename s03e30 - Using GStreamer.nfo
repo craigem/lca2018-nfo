@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Using GStreamer</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>30</episode>
+    <plot>
+    The GStreamer framework is a widely used and comprehensive multimedia processing system. It works cross-platform on Linux, MacOS, Android, Windows and iOS. The flexibility of its pipeline model caters for a very large number of use cases.
+
+    This tutorial is about how GStreamer works to process multimedia, and how to harness it for various tasks.
+
+    This tutorial will provide:
+    * An introduction to GStreamer terms, usage and the GStreamer pipeline model.
+    * An overview of a few of the many places GStreamer is used
+    * How to build your own GStreamer pipelines for playing, converting, editing and streaming media.
+    * Look at the requirements for various types of processing elements: Data sources, sinks, filters, converters.
+    * Using GStreamer in applications for custom processing and manipulation of data flow.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Jan Schmidt</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/1242051010/hacker-eye_400x400.png</thumb>
+    </actor>
+</episodedetails>
