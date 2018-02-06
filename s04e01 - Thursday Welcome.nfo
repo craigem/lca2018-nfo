@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Thursday Welcome</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>4</season>
+    <episode>1</episode>
+    <plot>
+    Welcome to the fourth day of linux.conf.au 2018!
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-25</aired>
+    <actor>
+      <name>Bruce Crawley</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/3566635585/9fe781efdbf4dddac9de00c086d37f9e_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
