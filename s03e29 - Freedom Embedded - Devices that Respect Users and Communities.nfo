@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Freedom Embedded: Devices that Respect Users and Communities</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>29</episode>
+    <plot>
+    GNU and Linux are now embedded in more kinds of hardware than ever, but nearly always only by requiring proprietary bits. The world’s most popular tablets and phones are based on a free core system loaded with nonfree software on top. We are at risk of free software being used primarily as a delivery vehicle to lower the cost of getting proprietary products to market.
+
+    How do we get the freedom we all want, and what is the market for that? The Free Software Foundation has a certification program called “Respects Your Freedom” (RYF) that awards a certification mark to hardware meeting a set of free software standards (fsf.org/ryf).
+
+    RYF has already made significant gains, especially over the last few years, certifying USB wifi adapters, 3D printers, home wifi routers, and earlier generation laptops. A growing number of small companies are competing on the basis of the certification, and crowdfunding campaigns are citing meeting the standards as a key project goal.
+
+    Bigger things are planned, and the program needs to scale to meet the demand it's discovered. Get updates on what’s in store, learn what it takes to get your product certified, hear about the impact of certification so far and the community that has formed around the program, and discuss possible improvements to the standards.
+
+    Can we turn our current “free software invisible under the hood” reality into a reality where consumers can go into a store or shop online and find clearly marked products that fully respect their freedom?
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>John Sullivan</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/745456119284269060/MhT9wFap_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
