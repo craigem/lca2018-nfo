@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Should you rewrite in Rust?</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>20</episode>
+    <plot>
+    When coders hear about a promising programming language, they often think "I'd like to write something in that!" While rewriting an existing utility or codebase in a new language can sometimes be a good idea, there are many situations in which it's not -- and to make it even more difficult, the benefits and drawbacks of a rewrite vary greatly based on which languages you're using!
+
+    Come to this talk to learn about the various techniques you can use to integrate Rust with existing code in other languages, their pros and cons, and who's using them in the industry. Even if you haven't tried Rust yet, you'll get a crash course in its strengths, its weaknesses, and the many ways you can make it do cool stuff.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>E. Dunham</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/744946446785380352/3nyDzcSc_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
