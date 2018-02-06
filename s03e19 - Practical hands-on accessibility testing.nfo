@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Practical hands-on accessibility testing</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>19</episode>
+    <plot>
+    Testing for web accessibility can feel daunting when you aren't used to it. But with the growing requirements for sites to meet accessibility guidelines, it has become an unescapable part of a developer's life. Accessibility should be seen as a challenge, rather than a chore.
+
+    This workshop will demonstrate an accessibility testing workflow that can be integrated in coding workflow, and will include a review of automated testing, and hands-on manual testing using a variety of tools, from using the keyboard to using a screen reader application. We will work on real life sites, as well as some code snippets.
+
+    Participants will leave the workshop with a solid understanding of common accessibility barriers and methods to test for, and remediate, these barriers.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Nicolas Steenhout</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/794940968130646016/NlPz_Ns1_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
