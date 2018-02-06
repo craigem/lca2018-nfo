@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Taking license compatibility semi-seriously</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>35</episode>
+    <plot>
+    License compatibility refers to the problem of creating combined works out of code under different, seemingly clashing open source licenses. It most often arises where at least one of the licenses is in the GPL family.
+
+    A surprising amount of intellectual energy, by developers, users, lawyers and "compliance professionals", has been devoted to dealing with the topic of license compatibility. Incompatibility is often spoken of as a significant open source compliance issue. But there has been very little critical analysis of the assumptions behind received wisdom about license compatibility. Where such analysis occurs, it seems to have little to do with the real-world behavior of developers and projects.
+
+    This talk attempts to make some sense out of the topic of license compatibility, noting where it makes sense and where it doesn't. We'll discuss some interesting historical and contemporary cases, like ZFS and Linux. The talk will propose ways of adjusting how we think about license interpretation so that compatibility doctrine is on more solid ground and in line with the realities of community development.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Richard Fontana</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/957612397719703554/48Wcb_kR_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
