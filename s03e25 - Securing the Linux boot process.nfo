@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Securing the Linux boot process</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>25</episode>
+    <plot>
+    Linux has had support for UEFI Secure Boot for some time, which helps secure part of the boot process - you can be reasonably sure that nobody's replaced your bootloader or kernel, and that's sufficient to cover a bunch of cases. But for various technical reasons there's still a number of security critical components that are entirely unverified and which can be replaced by an attacker, and that means anyone with access to your system can configure it to steal (say) your hard drive encryption password. That's suboptimal.
+
+    There are various solutions to this involving TPMs, but so far they've all involved a lot of manual configuration and run the risk of being locked out of your machine for upgrading your kernel at the wrong time. Surely we can do better?
+
+    Unsurprisingly, yes. This presentation will describe some light modifications to the way distributions ship components that will make it possible to ensure that systems boot without running the risk of sensitive credentials being stolen but also without compromising the flexibility of the existing Linux boot process.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Matthew Garrett</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q_400x400.png</thumb>
+    </actor>
+</episodedetails>
