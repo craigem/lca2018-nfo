@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>What happens when you quit your day job to work on OSS</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>22</episode>
+    <plot>
+    Who doesn't dream of being a hero who makes a real difference and puts a ding in the world with an free/open source project? Few people get the opportunity to try that and even fewer are mad enough to tell the world about how they took the leap and failed.
+
+    This talk is about my year of pursuing a business that not only relies on free/open source software, but one that creates free, open software in a transparent and collaborative way. My presentation is aimed at technical people who are curious about, or considering starting a business. It covers some of the lessons learned from bootstrapping a new self-sufficient free/open source project.
+
+    In this talk I'll cover:
+    * What compelled me to do this and what was 'the problem to solve'?
+    * How did I expect to earn income?
+    * When and why did I quit my day job? (how to distinguish between a hobby project and a business)
+    * Is there a conflict between community-building and profit-seeking?
+    * How can we mitigate the risk and burden of IP, copyright and all that jazz and get back to solving technical problems?
+    * How do you know who your customers are? (Your itch is not everyone else's itch.)
+    * What kind of financial planning and support made this possible and could I try again?
+    * Where did I find help?
+    * What did a typical day look like?
+    * What were some of the main challenges and obstacles I faced?
+    * Who do I look to for inspiration and examples of success?
+    * Is going solo complete madness? Did I have to wear my underpants on the outside?
+    * When/why did I stop and go back to a day job?
+    * How did this project make me a more attractive employee?
+    * What is it like to be an employee again?
+    * Would I do it again or would I recommend it to anyone else?
+
+    The aim of this presentation is to offer encouragement and to point out potential pitfalls of starting an open source software business. However, this talk should not be taken as business advice.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Andrew Cooks</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://avatars0.githubusercontent.com/u/459959?s=460&v=4</thumb>
+    </actor>
+</episodedetails>
