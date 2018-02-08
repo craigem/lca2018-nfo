@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Open Source in the FIRST Robotics Competition</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>3</episode>
+    <plot>
+    There’s no better way of getting people interested in STEM fields than cool outreach programs, especially high school outreach programs.
+
+    The FIRST Robotics Competition (FRC) is one of these important high school outreach programs. This talk will explore what FRC involves, the role that open source plays within FRC, and the various open source communities built around FRC.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>David Vo</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/378800000706311573/da579f145853cac42999cbd18347a8c2_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
