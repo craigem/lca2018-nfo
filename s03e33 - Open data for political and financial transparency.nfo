@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Open data for political and financial transparency</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>3</episode>
+    <plot>
+    There is a lot of hubris about the benefits of open data. Most people want improved financial and political transparency (support for a Federal ICAC confirms this) however political and policy change often arises only after a scandal which has come about as the result of insider whistleblowing rather than access to public facing information. The Panama Papers exemplifies the role of whistleblowers in creating policy window events.
+
+    This talk will overview the available open datasets relating to financial and political transparency published by government agencies using a live data transparency project, what can be done with existing datasets and the data quality issues that impact their usability.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Rosie Williams</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/896696363236286464/kbVMxui4_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
