@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The Open Sourcing of Infrastructure</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>23</episode>
+    <plot>
+    In recent years we've been seeing a shift in how infrastructures are being managed with the help of open source tooling and infrastructure software.
+
+    Well over a decade ago the LAMP stack broke us free from proprietary infrastructure tooling. With subsequent the rise of open source configuration management systems, websites sprung up so that common configurations, like Puppet modules and Chef recipes, from these systems could be shared between organizations using them in production.
+
+    Today, following a rush to cloud, companies are now looking for open source tooling to build cloud-like environments in their own new data centers. Technologies like OpenStack and DC/OS, powered by Apache Mesos, are allowing them to replicate much of the functionality that was previously only available with proprietary, hosted solutions. Taking this one step further, several open source projects and organizations have begun full-scale open sourcing of their infrastructures, allowing other organizations to directly benefit from their Continuous Integration tooling and more. Complete infrastructures have now become open source projects unto themselves, and operations engineers becoming more experienced open source contributors, alongside their developer colleagues.
+
+    Join me in look back through the history of why we chose to go with open source, and what it can teach us today as we evaluate building our applications against cloud platforms, APIs and more. I'll explore what questions should be asked before selecting a platform, some of the open source options available, and share examples of what organizations have gained by being very open about how they've built their infrastructure.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Elizabeth K. Joseph</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/700409709837176832/d_3Rggvr_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
