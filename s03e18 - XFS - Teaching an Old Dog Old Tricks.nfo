@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>XFS: Teaching an Old Dog Old Tricks</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>18</episode>
+    <plot>
+    XFS has been in production for more than 20 years and has been in the linux kernel for 15 of them - it is the oldest of the current mainstream Linux filesystems. The design of XFS was state of the art in the late 1980s, when btrees, extents and journalling were shiny new concepts. While development of XFS still continues, it's design and architecture is largely unchanged. many of the tricks that XFS brought to Linux can now be found in other Linux filesystems, too. It's the old dog of the pack.
+
+    We recently introduced a late-90s technology to XFS: shared data extents and a copy-on-write IO path. The copy-on-write tree structure that first appeared in the late 90s can be found in ZFS and BTRFS, but not XFS. So while XFS can now provide some data manipulations like clones and deduplication, it doesn't provide any of the more advanced CoW functionality like snapshots that traditional CoW filesystems inherently provide.
+
+    Given that XFS doesn't have a copy-on-write architecture, can we use the new functionality to provide a similar feature set to native COW filesystems? What other old tricks do we need to pull out of the bag to make this a reality? And how much will the result look like XFS?
+
+    In this talk I'll outline my crazy plan to add filesystem management concepts to XFS that only copy-on-write filesystems current provide to Linux users. There won't be anything "new" here - I'll describe the old tech that inspired the algorithms and structures that we'll use and, more importantly, some of the pitfalls and hard lessons learned from the original implementations of these techniques.
+
+    With any luck, I'll present a coherent story of how we are going to bring subvolumes, snapshots, writeable clones, send/receive remote snapshot replication, page cache sharing and more to XFS without needing to change it's underlying 1980s architecture. XFS may be an old dog, but there's still some old tricks we can teach it to keep it shiny, new and relevant to users for years to come.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Dave Chinner</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
