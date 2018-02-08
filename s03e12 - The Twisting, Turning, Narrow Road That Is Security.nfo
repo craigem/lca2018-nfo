@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The Twisting, Turning, Narrow Road That Is Security</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>12</episode>
+    <plot>
+    The road to computer security can't be especially smooth or straight for us to have wound up where we are. Why are there so many start-up options in systemd? Why is CAP_SYS_ADMIN so broad, when CAP_CHOWN is so specific? Who came up with the "mask" in access control lists? Are namespaces a security feature, or not? How did SELinux get so complicated? How did we come up with all these peculiar behaviors?
+
+    Let a kernel programmer from the 1970's take you through some of the history, mindset and all too often politics that have created the security paradigms, facilities and features we know in Linux today. We'll cover a few things from before the epoch (1 January, 1970) and the early days of UNIX. There will be a bit about the American "Orange Book", and how "C2 in '92" drove a frenzy of security feature development. We'll discuss how that lead to the POSIX P1003.1e/2c DRAFT and it's implications for security features as well as how it created an early cooperative development mindset within the security community. The arrival of Linux and the internet introduce new opportunities. The emergence of Linux Security Modules and their disappointing impact gets mentioned, too. Of course, the move from open systems to open source is next. The move to isolation, using virtualization and namespaces and the inevitable discovery of containers comes next.
+
+    We wrap up with some predictions of direction and possible disappointments in the future.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Casey Schaufler</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
