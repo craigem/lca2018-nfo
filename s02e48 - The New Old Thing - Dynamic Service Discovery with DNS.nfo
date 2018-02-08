@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>The New Old Thing: Dynamic Service Discovery with DNS</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>2</season>
+    <episode>48</episode>
+    <plot>
+    With containers, orchestration, and distributed microservices being all the rage, service discovery (the art of finding what to talk to) is more important than ever. Many technologies and systems have been developed, and are under active development, to solve this problem. But let's take a step back, and take a look at the oldest service discovery system of them all: DNS.
+
+    There is a standard for service discovery using DNS: DNS-SD, RFC6763. Why isn't anyone using it? Or perhaps they are, and we don't know it because it Just Works? We'll dissect the guts of this protocol, examine its strengths and weaknesses, compare it to some other popular service discovery systems, and based on practical operational experience, decide if everyone should be adopting this quiet achiever.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-23</aired>
+    <actor>
+      <name>Matt Palmer</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/607059906244395008/MfrT0fqN_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
