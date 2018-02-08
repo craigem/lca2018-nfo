@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>What does the buyout of @arduino mean for #openhardware?</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>14</episode>
+    <plot>
+    @KathyReid tweeted the title of this talk on July 29, 2017, a day after the Arduino buyout was announced. She was suggesting that the topic be submitted to #LCA2018. Having heard from a college friend that LCA is probably the best open source conference on the planet, I thought, why not provide my take?
+
+    I will share stories of Arduino (and Wiring Project) history, including the open licensing decisions that enabled its phenomenal organic growth, worldwide. Inhibitors to continued innovation occurred whenever key Arduino personnel attempted to restrict ecosystem participation (such as limiting microcontroller partners), or limit visibility of Arduino-compatible technology. Internal personnel feuds didn’t help either. It led to two years of lawsuits among co-founders, during which two different “Arduino” companies were vying for the trademark, to capture customer loyalty.
+
+    Even after a “settlement” was announced, with smiles and public handshakes shared on social media, the merged structure began with just a 3-person trademark holding company licensing the brand to the two feuding entities that continued to operate independently. They sold different boards, keeping their own profits, and keeping future projects and plans secret. Silicon vendors were confused, still dealing with two entities. To keep new products hidden, software wasn’t developed openly until the product was announced, vastly limiting expert review and collaboration that would have improved the quality, and reduced redundancy of new libraries, drivers, and core features. Similarly, an open and collaborative review of hardware designs, and cross-industry discussions for defining smaller “standard” form factors, was limited.
+
+    The buyout eliminates the “two Arduino” problem. But will the remaining Arduino team learn from the past and be more accepting of Arduino-compatible alternatives around them? Will the development process become more community-driven, allowing companies like TI to participate instead of feeling obligated to fork the IDE and roll their own? Will Arduino embrace and promote the great diversity of open source software options for programming the Wiring/Arduino framework, such as Snap! (Snap4Arduino), PlatformIO, embedXcode, and others? Will Arduino and compatible board designs remain open?
+
+    I discovered my passion for the open hardware community while working at Qualcomm Atheros, and was already engaged in pushing upstream Linux development of the Atheros Wi-Fi drivers. I met one of the newcomers to Arduino hardware at CES, and supported him with the integration of the AR9331 into the Arduino Yun, the first board to bridge a microprocessor running embedded Linux (OpenWrt) with a microcontroller running the Wiring/Arduino framework. This led to me joining the Arduino.org team, where I forged strategic relationships with additional chip vendors, board manufacturers, and did outreach in education and professional IoT. Due to management issues, I had resigned just before the buyout announcement. But there are reasons to stay involved in the community. Take for example RISC-V -- with an open architecture processor, we’re on the verge of open software, open hardware, *and* open silicon. Come listen to my take on Arduino history and where I think #openhardware can go in the future.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Kathy Giori</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/339738127/kg_face_2_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
