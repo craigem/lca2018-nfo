@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>(re)implementing (Google) maglev in Rust</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>10</episode>
+    <plot>
+    A war story: Developer re-implements a Google whitepaper in Rust using netmap for networking.
+
+    In 2016 Google released a whitepaper about their small packet wire rate - 40Gbps even, highly available IP load balancer. I happened to have some weeks shortly after that happened where I was able to do whatever I wanted... and I decided to have some fun and implement an open source look-alike.
+
+    Maglev has some distinctive design choices - such as the use of userspace networking to achieve zero-copy forwarding - which I knew about but had not actively used, as well as doing direct server return - sending packets to backend servers wrapped in GRE, but traffic in the other direction is routed directly, so the traffic pattern is asymmetric.
+
+    Since I was young and foolish then, I thought it would be good to also deepen my knowledge of the Rust language at the same time... and develop it on my not-as-Linux-friendly-as-I'd-like Surface : so my Linux environment was actually a Hyper-V VM.
+
+    This combination led to discovering some truely fantastic facilities in Rust, bugs in the Linux kernel and the netmap project, and exploring some of the awkwardness where very clever C datastructures don't map well to Rust's ownership model.
+
+    The current status of the project is that the core use case works: traffic can be forwarded using network ring buffers, without needing a dedicated network card, routed with zerocopy while preserving GRE wrappers. Higher level facilities like dynamic reconfiguration and backend health signalling are not yet implemented (but are designed).
+
+    In the talk I will cover the choices I made and why - rust vs the world, netmap vs DPDK, things I found surprising about doing userspace networking, detail the gritty details of doing userspace networking with Netmap from Rust, using Rust to parse and create network packets, as well as driving netlink from within Rust. I'll cover the bugs I had to fix in order to write the code I wanted to write.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Robert Collins</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/279944135/twitter_400x400.png</thumb>
+    </actor>
+</episodedetails>
