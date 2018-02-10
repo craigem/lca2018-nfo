@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Virtual Storage Pools with MARS Background Migration</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>48</episode>
+    <plot>
+    With the community, I will explain and discuss the use cases and the architectural considerations behind virtual LV storage pools, using MARS clusters for background data migration during operation. It has a high potential for cost savings as well as for improving the reliabilty of big storage clusters / grids.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Thomas Schoebel-Theuer</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://avatars1.githubusercontent.com/u/1225775?s=460&v=4</thumb>
+    </actor>
+</episodedetails>
