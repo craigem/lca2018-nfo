@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>More crazy flying machines - CanberraUAV and ArduPilot</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>9</episode>
+    <plot>
+    This talk will discuss the ups and downs (including a spectacular helicopter crash!) of the successful 2016 Outback Challenge entry by the CanberraUAV team. We're delighted to note that most teams in the OBC now run ArduPilot, but the challenge is living up to its reputation as a tough nut to crack.
+
+    I will also introduce some notable new aircraft designs, including my personal favourite, the TVBS (thrust vectored belly sitter).
+
+    Central to the OBC was communications, with the requirement for reliable beyond visual range communications a real challenge in a rural environment. The flight logs of our 2016 challenge flights show some rather surprising results with telstra and optus 3G modems, with communications lag far beyond what was expected. The highly redundant network system we used in CanberraUAV was very complex, but proved its worth on the day after our relay aircraft was destroyed.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>Andrew Tridgell</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
