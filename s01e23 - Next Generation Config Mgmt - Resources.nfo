@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Next Generation Config Mgmt: Resources</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>23</episode>
+    <plot>
+    Mgmt is a next gen config management tool that takes a fresh look at automation.
+
+    The main design features of the tool include:
+    * Parallel execution
+    * Event driven mechanism
+    * Distributed architecture And a:
+    * Declarative, Functional, Reactive programming language.
+
+    The tool has two main parts: the engine, and the language.
+
+    This presentation will demo both and include many interactive examples showing you how to build reactive, autonomous, real-time systems.
+
+    We'll focus on how to get developers involved so that they can build a resource or a function to fit their specific needs!
+
+    Finally we'll talk about some of the future designs we're planning and make it easy for new users to get involved and help shape the project.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>James Shubin</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/378800000787883472/ae1ca016a2f6fda4b2f437940c441b2d_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
