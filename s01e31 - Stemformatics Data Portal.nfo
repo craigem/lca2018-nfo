@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Stemformatics Data Portal</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>31</episode>
+    <plot>
+    Stemformatics is a web based pocket dictionary for stem cell researchers. Researchers can quickly and easily visualise their datasets in Stemformatics. They can benchmark their datasets against 350+ high quality, manually curated datasets. They can also use Stemformatics to look across these datasets to find interesting biological patterns.
+
+    These public datasets are valuable as 29% of datasets fail our quality control. We wanted to share these datasets more with the bioinformaticians (data scientists). That is why Stemformatics come up with the idea of developing the Data Portal.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Sadia Waleem</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
