@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Source Code Generation: How I Learned to Stop Worrying and Love the Boilerplate</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>9</episode>
+    <plot>
+    Automatic source code generation might seem like a hack to most developers, but it doesn't have to be this way. When used effectively as part of a software project's development and build processes, code generation can encourage good practices, reduce bugs, and save valuable developer time by eliminating the need to write boilerplate code by hand. This talk will look at a few use cases for automatic source code generation, and discuss the high-level design principles involved in using, or even rolling your own source code generator.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Daniel Phillips</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/632842685510914048/qHPvs_qj_400x400.png</thumb>
+    </actor>
+</episodedetails>
