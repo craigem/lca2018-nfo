@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Stemformatics Architecture</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>3</season>
+    <episode>31</episode>
+    <plot>
+    Stemformatics is a web based pocket dictionary for stem cell researchers. Researchers can quickly and easily visualise their datasets in Stemformatics. They can benchmark their datasets against 350+ high quality, manually curated datasets. They can also use Stemformatics to look across these datasets to find interesting biological patterns.
+
+    Following are components in Stemformatics ecosystem :
+
+    Pipelines (to process data across different platforms) Data Portal (processed data can be pushed to Data Portal, from where any one who has access can grab data for their personal use) Stemformatics (website to visualize and perform analysis on data ) Omicxview (website to view metabolomic pathways)
+
+    Components:
+
+    PIPELINES - Pipelines are used to normalized raw data shared by Biologist. Currently we have pipelines for microarrays, RNA-Seq, ChIP-Seq, miRNA and ATAC-Seq.
+
+    DATA PORTAL - It is a data repository that has an API which is used to grab data from repository, and front end to search on different datasets and download multiple files. This is currently in alpha but is critical as 29% of datasets we process fail our quality control.
+
+    STEMFORMATICS - The Stemformatics web server is open source and uses the Pylons web framework with an Apache reverse proxy server and Redis cache.
+
+    OMICXVIEW - It is an open source and uses the Pyramid web framework with an Apache reverse proxy server. This tool is built for Biologists to help them visualize metabolic pathways in their data.
+
+    Methodology:
+
+    Simple and straightforward Code - At Stemformatics, we believe in writing simple, clear and straightforward code to make it easier for everyone to interpret and easier to maintain. We use functional approach rather than using object-oriented as it helps us in writing simple code where data inputs are given and data inputs are received.
+
+    Speed - To provide a good user experience, speed is of utmost importance and in Stemformatics, we use redis cache to provider faster data access. Though it adds little bit of complexity to the code as we have to store data based on each user id, but then it's more like trade-off between speed vs complexity.
+
+    Using MVC structure - We use Model-View-Controller framework where main logic is sitting in Models that are big and fat, while the Controllers are thin and skinny, and call these models to access the logic and return data based on that. View provides front-end to User.
+
+    The strategy behind having fat model and thin controller is to be able to easily migrate the application to to another web framework such as pyramid or django.
+
+    Call To Action:
+
+    All our projects are open source and can be forked from bitbucket. We would to hear from other people who would like to review or contribute to towards our projects.
+
+    Pipeline - Help make our pipelines more efficient at processing raw data
+    Data Portal - Help us to add more integrations with the Stemformatics Web Server
+    Web Server - Help us with ideas on looking across datasets
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-24</aired>
+    <actor>
+      <name>isha nagpal</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb></thumb>
+    </actor>
+</episodedetails>
