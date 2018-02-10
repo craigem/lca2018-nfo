@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Making noise on a zero budget: the joys of game audio</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>14</episode>
+    <plot>
+    Audio is one of the most engaging aspects of game design that can either bring the player in to a really engaging experience or ruin all of it.
+
+    This talk will look at some of the principles of game audio while relating the workflow process to the free and open source philosophy.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Jody Toomey</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/894146319203172352/EDaBbu32_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
