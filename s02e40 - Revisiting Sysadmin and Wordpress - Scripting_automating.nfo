@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Revisiting Sysadmin and Wordpress - Scripting/automating</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>2</season>
+    <episode>40</episode>
+    <plot>
+    Wordpress is often installed by less experienced users, following a guide they found online which may well be out of date and insecure. By the time Sysadmins are involved, it is often cleaning up the result of those inexperienced choices. However there's a useful proactive role for Sysadmins too, to avoid it being "all cleanup".
+
+    This talk is going to show a few shell scripts I created to make the updating and fixing exploits and faster easier. As well as scripts for reinstalling exploited installs, checking they are up to date, and a few other things.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-23</aired>
+    <actor>
+      <name>Liz Quilty</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/905524625781559296/gUm1pmeD_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
