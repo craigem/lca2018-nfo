@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Monitoring All the Things! on your Linux system with the Elastic Stack</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>2</season>
+    <episode>25</episode>
+    <plot>
+    In this talk, we'll look at how you can easily ingest your Linux system logs and various OS metrics into Elasticsearch using Filebeat and Metricbeat modules. Modules are a new concept in the open-source Filebeat and Metricbeat tools made by Elastic. We can then visually examine both our systems performance and all events occurring on it over time with Kibana. This is a near complete open source monitoring solution for a Linux system.
+
+    Assuming the demo gods allow, We'll have a little bit of a play with our systems, by inducing CPU/memory load or spamming log lines to see it reacts in Kibana, and correlate the different sources of information together in a single Kibana dashboard, providing a relatively complete view of what is happening on the system.
+
+    Finally, anything missing we want to monitor or record we can do by writing our own Filebeat or Metricbeat module. So we will take a dive into the code to see how you can contribute your own Filebeat or Metricbeat module to these projects.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-23</aired>
+    <actor>
+      <name>Josh Rich</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/755310657847697410/Rbv-kRWv_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
