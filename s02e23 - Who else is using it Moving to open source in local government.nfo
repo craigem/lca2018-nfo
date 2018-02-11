@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Who else is using it? Moving to open source in local government</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>2</season>
+    <episode>23</episode>
+    <plot>
+    In November 2017, Brimbank Libraries went live with the open source Koha Integrated Library System, immediately becoming becoming the largest Koha library in Australia. The data migration from a proprietary system to Koha ILS only took about six hours, but the internal process of getting there took over two years.
+
+    Open source solutions exist for most things local governments do, yet Australian local Councils - including public libraries - have generally been reticent to move from proprietary systems to open source. In this talk Hugh will explain what he has learned about making open source projects happen within local government, how to talk about open source software in a way that builds buy-in from managers and front-line staff, and how you can make government procurement rules work for you.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-23</aired>
+    <actor>
+      <name>Hugh Rundle</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/862971957603586048/fhYEdfo4_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
