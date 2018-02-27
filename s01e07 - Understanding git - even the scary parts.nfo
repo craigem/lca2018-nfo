@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Understanding git - even the scary parts</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>7</episode>
+    <plot>
+    Git is by far the most popular version control system used by developers today. However, some aspects of Git can be hard to grasp as a new developer. This talk is aimed at Git users and developers who would like to understand how Git works on a conceptual level, so they can use Git to its full potential without fear. Topics covered in this talk are:
+
+    * A high level view of how Git’s storage works
+    * What is a branch
+    * Git merge and Git rebase - and when to use (and not use) them
+    * Git Vs. repository management services like Gitlab and Github
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Anwesha Chatterjee</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/919315541319282688/njVF3PlL_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
