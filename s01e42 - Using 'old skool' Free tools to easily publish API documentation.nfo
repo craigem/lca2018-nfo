@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>Using "old skool" Free tools to easily publish API documentation</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>42</episode>
+    <plot>
+    API developers need to frequently push good quality documents to their users. Just throwing an API specification onto a website if not good enough and will make life very hard for other developers.
+
+    This talk will focus on how to create and publish documentation quickly and easily as part of the development process. Using free tools and hosting services, plus some time to set up a docs "build" system you can make edits fast and easy, so that the documentation is more likely to be kept up to date and be useful.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Alec Clews</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/2756874943/14de5cfbf7c9e9f92de0e0de3c675b4a_400x400.jpeg</thumb>
+    </actor>
+</episodedetails>
