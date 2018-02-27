@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- created on 2018-01-31 07:03:29 - by Craige McWhirter -->
+<episodedetails>
+    <title>You Can't Unit Test C, Right?</title>
+    <showtitle>LCA 2018</showtitle>
+    <season>1</season>
+    <episode>3</episode>
+    <plot>
+    Testing is a wonderful thing. Code with good tests is so much easier to work with and change due to the comfort the tests provide that you haven't broken anything you didn't expect to break.
+
+    C can be a tricky language to work in. It compiles to static code. It's incredibly low-level compared to many of the languages people use these days. It also comes with a delightfully bewildering and wide array of ways to very effectively shoot yourself in the foot. On top of that the POSIX API implementations C code often relies on don't lend themselves to easy testing, especially of unhappy paths. Which means that while we should absolutely be testing our C code it should be really hard to unit test, right?
+
+    Join me for a quick overview of the ways in which C can be unit tested, including ways to push around the POSIX APIs, and how you too can increase your C code's level of comfort.
+    </plot>
+    <genre>Education</genre>
+    <year>2018</year>
+    <aired>2018-01-22</aired>
+    <actor>
+      <name>Benno Rice</name>
+      <role>Presenter</role>
+      <order>0</order>
+      <thumb>https://pbs.twimg.com/profile_images/767927080940023808/RRaS33Uy_400x400.jpg</thumb>
+    </actor>
+</episodedetails>
