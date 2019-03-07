@@ -9,6 +9,7 @@ Merely my `NFO`_ files for the `Kodi`_ media centre for videos from
    :alt:    Donate using Liberapay
    :align:  center
 
+|
 
 .. image:: logo.jpg
 
