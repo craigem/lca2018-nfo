@@ -6,6 +6,8 @@ Merely my `NFO`_ files for the `Kodi`_ media centre for videos from
 
 .. image:: https://mcwhirter.com.au/files/lp_donate.svg
    :target: https://liberapay.com/craige/donate
+   :alt:    Donate using Liberapay
+   :align:  center
 
 
 .. image:: logo.jpg
