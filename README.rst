@@ -12,6 +12,9 @@ Merely my `NFO`_ files for the `Kodi`_ media centre for videos from
 |
 
 .. image:: logo.jpg
+   :target: https://lca2018.linux.org.au/
+   :alt:    linux.conf.au 2018
+   :align:  center
 
 .. _NFO: https://en.wikipedia.org/wiki/.nfo
 .. _Kodi: https://kodi.tv/
